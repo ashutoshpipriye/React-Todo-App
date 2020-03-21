@@ -13,3 +13,6 @@ Then run the project:
 <h4>$ npm run start</h4>
 
 Navigate to http://localhost:3000/ in your browser to see the spinning React logo.
+<h3>Output:</h3>
+
+![](Todo_app.png)
